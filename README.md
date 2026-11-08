@@ -8,3 +8,5 @@ Jeu de dessin à deviner en équipes, pour les enfants (4 à 12 ans). On dessine
 - La partie est gardée si on ferme la page
 
 Une seule page, `index.html`, sans dépendance ni étape de build. Publiée avec GitHub Pages.
+
+Installable comme une appli (PWA) et jouable hors ligne : `manifest.webmanifest`, `sw.js` et les icônes générées depuis `icon.svg`.
